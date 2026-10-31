@@ -1,74 +1,116 @@
-<p align="center">
-  <a href="https://github.com/SA6196">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Shivansh!;Embedded+Systems+%2B+Python+%2B+Web+Apps;Hackathon+Builder+%7C+Always+Shipping" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
 
----
+<img src="assets/banner.svg" alt="Shivansh Agarwal banner" width="100%"/>
 
-## 🚀 About Me
+<br/>
 
-- 💻 Passionate about **building things that work**, learning something new with every commit.
-- 🛠️ I build across **embedded systems, Python projects and web apps**, from rovers to ML notebooks.
-- 🏆 I enjoy **hackathons**, competitive coding and turning rough ideas into working prototypes.
-- 🤝 Open to collaborating on interesting projects. Reach me at **agarwalshivansh05@gmail.com**.
-- 🌱 *(Edit me)* Add your college, year, clubs or what you are learning right now.
+<a href="https://github.com/SA6196?tab=followers"><img src="https://img.shields.io/github/followers/SA6196?style=for-the-badge&logo=github&color=9b5de5&labelColor=0f0c29" alt="followers"/></a>
+<a href="https://github.com/SA6196?tab=repositories"><img src="https://img.shields.io/badge/REPOS-10-00f5d4?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29" alt="repos"/></a>
+<a href="mailto:agarwalshivansh05@gmail.com"><img src="https://img.shields.io/badge/CONTACT-GMAIL-f15bb5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="email"/></a>
 
----
+</div>
 
-## 🛠️ Tech Stack & Tools
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<div align="center">
+<img src="assets/terminal.svg" alt="terminal intro" width="85%"/>
+</div>
 
----
+<br/>
 
-## 💻 Featured Projects
+## ⚡ Tech Arsenal
 
-### 🌐 [Coral_Hackathon](https://github.com/SA6196/Coral_Hackathon)
-A hackathon build created and shipped under time pressure.
-- **Tech Stack:** JavaScript
-- **Focus:** Rapid prototyping and teamwork.
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🪸 [Coral_Hackathon](https://github.com/SA6196/Coral_Hackathon)
+A hackathon build created and shipped against the clock.<br/>
+`JavaScript` · ⭐ 4
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 [Rover_Embedded_System](https://github.com/SA6196/Rover_Embedded_System)
-Embedded system code that runs a rover.
-- **Tech Stack:** C++
-- **Focus:** Hardware and software working together.
+Embedded code that brings a rover to life.<br/>
+`C++` · Hardware meets software
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📡 [Sonar](https://github.com/SA6196/Sonar)
-A Python project exploring sonar-style sensing.
-- **Tech Stack:** Python
+Sonar-style sensing explored in Python.<br/>
+`Python` · ⭐ 1 · 🍴 1
+
+</td>
+<td width="50%" valign="top">
 
 ### 💬 [communique_](https://github.com/ojasjog/communique_)
-A communication-focused Python project built with a collaborator.
-- **Tech Stack:** Python
+A communication-focused project built with a teammate.<br/>
+`Python` · ⭐ 4
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 👥 [crowd-density-estimator](https://github.com/siddharthkalyavit2025/crownd-density-estimator)
-Crowd density estimation in a Jupyter notebook.
-- **Tech Stack:** Python, Jupyter
+Estimating crowd density inside a notebook.<br/>
+`Jupyter` · Collaboration
 
----
+</td>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+### 🏁 [RMCS Codechef](https://github.com/SA6196/RMCS_Codecheif_By_Shivansh-Agarwal__)
+A competitive coding solution.<br/>
+`Python` · ⭐ 1
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SA6196&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SA6196&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 📫 Connect With Me
+## 🧭 Currently
 
-<p>
-  <a href="mailto:agarwalshivansh05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SA6196"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<details open>
+<summary><b>🔭 What I&#8217;m up to</b></summary>
 
-<p align="center"><i>Thanks for stopping by! ⭐</i></p>
+- 🛠️ Building across **embedded systems, Python and web**
+- 🏆 Chasing the next **hackathon**
+- 🌱 *(Edit me)* Add your college, year or what you are learning right now
+
+</details>
+
+<details>
+<summary><b>🎯 Fun facts</b></summary>
+
+- 🤖 I like projects where code touches the real world
+- ⚡ I learn fastest by building and breaking things
+- 🌱 *(Edit me)* Add a hobby, a favorite game, or a song you code to
+
+</details>
+
+<br/>
+
+<div align="center">
+<img src="assets/footer.svg" alt="footer waves" width="100%"/>
+</div>
