@@ -9,7 +9,7 @@
 <text x="30" y="176" opacity="0"><tspan fill="#00f5d4">~ $ </tspan><tspan fill="#ffffff">cat education.txt</tspan><animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.2s" fill="freeze"/></text>
 <text x="30" y="210" fill="#c4a1ff" opacity="0">B.Tech CSE (Core) @ VIT Vellore, Main Campus<animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.2s" fill="freeze"/></text>
 <text x="30" y="252" opacity="0"><tspan fill="#00f5d4">~ $ </tspan><tspan fill="#ffffff">cat interests.txt</tspan><animate attributeName="opacity" from="0" to="1" begin="4.0s" dur="0.2s" fill="freeze"/></text>
-<text x="30" y="286" fill="#c4a1ff" opacity="0">embedded systems / python / web / hackathons<animate attributeName="opacity" from="0" to="1" begin="4.8s" dur="0.2s" fill="freeze"/></text>
+<text x="30" y="286" fill="#c4a1ff" opacity="0">Embedded Systems / Python / Web / Hackathons / AI/ML/DL +exploring <animate attributeName="opacity" from="0" to="1" begin="4.8s" dur="0.2s" fill="freeze"/></text>
 <text x="30" y="328" opacity="0"><tspan fill="#00f5d4">~ $ </tspan><tspan fill="#ffffff">ls projects/</tspan><animate attributeName="opacity" from="0" to="1" begin="5.8s" dur="0.2s" fill="freeze"/></text>
 <text x="30" y="362" fill="#c4a1ff" opacity="0">coral_hackathon  rover  sonar  communique  ... and many more<animate attributeName="opacity" from="0" to="1" begin="6.6s" dur="0.2s" fill="freeze"/></text>
 <text x="30" y="404" opacity="0"><tspan fill="#00f5d4">~ $ </tspan><tspan fill="#ffffff">echo $MOTTO</tspan><animate attributeName="opacity" from="0" to="1" begin="7.6s" dur="0.2s" fill="freeze"/></text>
