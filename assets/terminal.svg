@@ -2,10 +2,10 @@
 <rect x="1" y="1" width="898" height="518" rx="14" fill="#0d1117" stroke="#9b5de5" stroke-width="2"/>
 <rect x="1" y="1" width="898" height="44" rx="14" fill="#1b1f2a"/><rect x="1" y="30" width="898" height="15" fill="#1b1f2a"/>
 <circle cx="28" cy="23" r="7" fill="#ff5f56"/><circle cx="52" cy="23" r="7" fill="#ffbd2e"/><circle cx="76" cy="23" r="7" fill="#27c93f"/>
-<text x="450" y="28" text-anchor="middle" font-family="'Courier New',monospace" font-size="14" fill="#8b949e">shivansh@sa6196: ~</text>
+<text x="450" y="28" text-anchor="middle" font-family="'Courier New',monospace" font-size="14" fill="#8b949e">Shivansh@SA6196: ~</text>
 <g font-family="'Courier New',monospace" font-size="19">
 <text x="30" y="100" opacity="0"><tspan fill="#00f5d4">~ $ </tspan><tspan fill="#ffffff">whoami</tspan><animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.2s" fill="freeze"/></text>
-<text x="30" y="134" fill="#c4a1ff" opacity="0">shivansh-agarwal  (SA6196)<animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.2s" fill="freeze"/></text>
+<text x="30" y="134" fill="#c4a1ff" opacity="0">Shivansh-Agarwal  (SA6196)<animate attributeName="opacity" from="0" to="1" begin="1.3s" dur="0.2s" fill="freeze"/></text>
 <text x="30" y="176" opacity="0"><tspan fill="#00f5d4">~ $ </tspan><tspan fill="#ffffff">cat education.txt</tspan><animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.2s" fill="freeze"/></text>
 <text x="30" y="210" fill="#c4a1ff" opacity="0">B.Tech CSE (Core) @ VIT Vellore, Main Campus<animate attributeName="opacity" from="0" to="1" begin="3.0s" dur="0.2s" fill="freeze"/></text>
 <text x="30" y="252" opacity="0"><tspan fill="#00f5d4">~ $ </tspan><tspan fill="#ffffff">cat interests.txt</tspan><animate attributeName="opacity" from="0" to="1" begin="4.0s" dur="0.2s" fill="freeze"/></text>
