@@ -6,6 +6,7 @@
 
 <a href="https://github.com/SA6196?tab=followers"><img src="https://img.shields.io/github/followers/SA6196?style=for-the-badge&logo=github&color=9b5de5&labelColor=0f0c29" alt="followers"/></a>
 <a href="https://github.com/SA6196?tab=repositories"><img src="https://img.shields.io/badge/REPOS-10-00f5d4?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29" alt="repos"/></a>
+<a href="https://vit.ac.in"><img src="https://img.shields.io/badge/VIT-VELLORE-1f6feb?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0f0c29" alt="VIT Vellore"/></a>
 <a href="mailto:agarwalshivansh05@gmail.com"><img src="https://img.shields.io/badge/CONTACT-GMAIL-f15bb5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="email"/></a>
 
 </div>
@@ -17,6 +18,14 @@
 </div>
 
 <br/>
+
+## 🎓 About Me
+
+- 🏛️ **B.Tech in Computer Science & Engineering (Core)** at **VIT Vellore, Main Campus**
+- 💻 Building across **embedded systems, Python, web and ML notebooks**
+- 🏆 Hackathon regular who loves turning rough ideas into working prototypes
+- 📚 Exploring new tech all the time, and **many more projects are on the way**
+- 🤝 Open to collaborating. Reach me at **agarwalshivansh05@gmail.com**
 
 ## ⚡ Tech Arsenal
 
@@ -35,6 +44,8 @@
 <br/>
 
 ## 🚀 Featured Projects
+
+<sub>A few highlights from my 10+ repositories, with new builds landing all the time.</sub>
 
 <table>
 <tr>
@@ -87,6 +98,14 @@ A competitive coding solution.<br/>
 </tr>
 </table>
 
+<div align="center">
+
+### 🔎 Many more projects to explore
+
+<a href="https://github.com/SA6196?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_ALL_REPOSITORIES-9b5de5?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" alt="all repos"/></a>
+
+</div>
+
 <br/>
 
 ## 🧭 Currently
@@ -96,7 +115,8 @@ A competitive coding solution.<br/>
 
 - 🛠️ Building across **embedded systems, Python and web**
 - 🏆 Chasing the next **hackathon**
-- 🌱 *(Edit me)* Add your college, year or what you are learning right now
+- 🎓 Going deep on **CSE core** subjects at VIT Vellore
+- 🚀 Starting new projects faster than I finish my coffee ☕
 
 </details>
 
