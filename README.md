@@ -125,7 +125,6 @@ A competitive coding solution.<br/>
 
 - 🤖 I like projects where code touches the real world
 - ⚡ I learn fastest by building and breaking things
-- 🌱 *(Edit me)* Add a hobby, a favorite game, or a song you code to
 
 </details>
 
