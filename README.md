@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Shivansh! 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=520&lines=Ｍ+Ｅ+Ｔ+Ａ+Ｍ+Ｏ+Ｒ+Ｐ+Ｈ+Ｏ+Ｓ+Ｉ+Ｓ;Builder+%7C+Hackathon+Enthusiast;Always+evolving%2C+always+shipping" alt="Typing SVG" />
-</p>
+<h3 align="center">💭 Ｍ Ｅ Ｔ Ａ Ｍ Ｏ Ｒ Ｐ Ｈ Ｏ Ｓ Ｉ Ｓ 💭</h3>
+
+<p align="center"><b>Builder</b> · <b>Hackathon Enthusiast</b> · <i>Always evolving, always shipping</i></p>
 
 ---
 
@@ -11,7 +11,7 @@
 - 💭 Always in a state of **metamorphosis**: learning, building, and improving with every commit.
 - 🛠️ I build across **embedded systems, Python projects and web apps**, from rovers to ML notebooks.
 - 🏆 I enjoy **hackathons**, competitive coding and turning rough ideas into working prototypes.
-- 🤝 Open to collaborating on interesting projects. Reach me at **sitaagarwal@gmail.com**.
+- 🤝 Open to collaborating on interesting projects. Reach me at **agarwalshivansh05@gmail.com**.
 - 🌱 *(Edit me)* Add your college, year, clubs or what you are learning right now.
 
 ---
@@ -67,7 +67,7 @@ Crowd density estimation in a Jupyter notebook.
 ## 📫 Connect With Me
 
 <p>
-  <a href="mailto:sitaagarwal02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:agarwalshivansh05@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/SA6196"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
