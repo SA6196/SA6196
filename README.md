@@ -1,14 +1,14 @@
-<h1 align="center">Hi there, I'm Shivansh! 👋</h1>
-
-<h3 align="center">💭 Ｍ Ｅ Ｔ Ａ Ｍ Ｏ Ｒ Ｐ Ｈ Ｏ Ｓ Ｉ Ｓ 💭</h3>
-
-<p align="center"><b>Builder</b> · <b>Hackathon Enthusiast</b> · <i>Always evolving, always shipping</i></p>
+<p align="center">
+  <a href="https://github.com/SA6196">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Shivansh!;Embedded+Systems+%2B+Python+%2B+Web+Apps;Hackathon+Builder+%7C+Always+Shipping" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💭 Always in a state of **metamorphosis**: learning, building, and improving with every commit.
+- 💻 Passionate about **building things that work**, learning something new with every commit.
 - 🛠️ I build across **embedded systems, Python projects and web apps**, from rovers to ML notebooks.
 - 🏆 I enjoy **hackathons**, competitive coding and turning rough ideas into working prototypes.
 - 🤝 Open to collaborating on interesting projects. Reach me at **agarwalshivansh05@gmail.com**.
@@ -71,4 +71,4 @@ Crowd density estimation in a Jupyter notebook.
   <a href="https://github.com/SA6196"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Every commit is a small transformation. 🦋</i></p>
+<p align="center"><i>Thanks for stopping by! ⭐</i></p>
