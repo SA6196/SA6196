@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/SA6196?tab=followers"><img src="https://img.shields.io/github/followers/SA6196?style=for-the-badge&logo=github&color=9b5de5&labelColor=0f0c29" alt="followers"/></a>
-<a href="https://github.com/SA6196?tab=repositories"><img src="https://img.shields.io/badge/REPOS-10-00f5d4?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29" alt="repos"/></a>
+<a href="https://github.com/SA6196?tab=repositories"><img src="https://img.shields.io/badge/REPOS-10+working-00f5d4?style=for-the-badge&logo=git&logoColor=white&labelColor=0f0c29" alt="repos"/></a>
 <a href="https://vit.ac.in"><img src="https://img.shields.io/badge/VIT-VELLORE-1f6feb?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0f0c29" alt="VIT Vellore"/></a>
 <a href="mailto:agarwalshivansh05@gmail.com"><img src="https://img.shields.io/badge/CONTACT-GMAIL-f15bb5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="email"/></a>
 
